@@ -32,6 +32,10 @@ How to use the user defined datatype struct in go
 ############################################################################
 
 ############################################################################
+
+
+
+
 In chapters/packages you will find how to separate common functions for different go files.
 packages. helper.ValidateUserInput is called in main.go from chapters/packages/helper/helper.go. Check the file 
 chapters/packages/helper/helper.go for the function that was abstracted and used as a paackage function.
