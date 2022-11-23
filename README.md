@@ -23,6 +23,8 @@ In the folder chapters, you can find the basic syntaxes, data types and logic ha
 
 8-struct: How to use the user defined datatype struct in go
 
+9-generics: Example of how to use generics in go
+
 ############################################################################
 
 ############################################################################
